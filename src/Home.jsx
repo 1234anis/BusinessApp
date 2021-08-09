@@ -15,7 +15,7 @@ const Home = () => {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
                 Grow your business with
-                    <strong className="brand-name"> Mohd Anis </strong>
+                    <strong className="brand-name"> MOHD ANIS </strong>
                   </h1>
                   <h2 className="my-3">
                     We are the team of talented developer making websites
